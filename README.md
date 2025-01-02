@@ -1,2 +1,2 @@
 # hello_world
- my first repository
+ first repository and program im so happy :0
